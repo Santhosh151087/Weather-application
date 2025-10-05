@@ -6,7 +6,7 @@ A simple weather application built using HTML, CSS, and JavaScript. It uses the 
 
 ## Live Demo
 
-
+https://santhosh151087.github.io/Weather-application/
 
 ---
 
